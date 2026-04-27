@@ -134,7 +134,7 @@
 - User Slade can run the command : `/usr/bin/pkexec`
 - pkexec allows users to execute commands with the privileges of another user
 
-## 25. sudo pkexec /bin/bash
+## 25. `sudo pkexec /bin/bash`
 <img width="962" height="392" alt="image" src="https://github.com/user-attachments/assets/35d179dd-b6ce-4244-8132-fde95b90a3fd" />
 
 - Run `ls`
